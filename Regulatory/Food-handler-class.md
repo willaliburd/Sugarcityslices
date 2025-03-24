@@ -158,3 +158,48 @@ ALL FOOD HANDLERS
  -utensils
  -equipment
  or make them stay home.
+
+ <h1>FLOW OF FOOD HIGHLIGHTS</h1>
+ <h2>LABELLING</h2>
+
+ Label ingredients that are not in their original container
+ <h3>Labelling food for sale</h3>
+ -Common name
+ -quantity
+ - list of ingredients and sub-ingredients in descending order by weight
+ - -List of artificial colors and flavors and chemical preservatives
+ - Name and place of business of the manufacturer, paker or distributer
+ - Source of each major food allergen contained in the food
+
+<h3>Ready to eat TCS food that will be held for longer than 24 hours</h3>
+Label these foods with a date mark e.g. use by date. It can be stored for only *7 days*if it is held at 41 degrees or below.
+
+<h2>STORAGE</h2>
+Have designated area
+Away from walls and off teh floor 6"
+Single use items e.g. gloves in original packaging
+Use food grade containers that have been cleaned and sanitized
+Containers must be durable, leak proof, and able to be sealed or covered
+
+If you cannot store ready to eat food separately from raw food store in the following order top to bottom
+1- ready to eat
+2 - poultry
+3 - whole cuts of meat
+4 - ground meat or poultry
+5 - seafood
+
+TIPS
+Thaw 
+-In cooler (refrigerator) in a cooler e.g. metal or plastic pan
+-Under running water
+-In microwave if it will be immediately cooked e.g. you cannot marinate microwave thawed food
+-As part of the cooking process
+
+<H2>COOKING AND HOLDING HOT</H2>
+
+Cooking temperaturesSeafood 145F
+Whole cuts of meat 145F
+Ground meant or fish 155F
+Whole and ground poultry 165F
+
+Hold hot above 135F
