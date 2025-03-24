@@ -56,7 +56,7 @@ Purchase shellfish from approved reputable suppliers
 Need host to reproduce
 
 Purchase food from approved, reputable suppliers
-Cook food to required minimum internal temperatures
+Cook food to required minimum internal temperaturesse 
 Fish that will be served raw or undercooked must be correctly frozen by the manufacturer
 
 <h1>FUNGI</h1>
@@ -71,4 +71,77 @@ Jellies and jam can grow yeast which grows from sugar
 
 Naturally occur in certain plants, mushrooms and seafood
 Seafood - tuna, bonito, mahi-mahi. Histamine is produced when fish is time-temperature abused
-Fish that eat smaller fish that have consumed a toxin - Barracuda, snapper, grouper, amberjack (ciguatera toxin)
+Fish that eat smaller fish that have consumed a toxin - Barracuda, snapper, grouper, amberjack eat the smaller fish (ciguatera toxin -found in algae eaten by smaller fish)
+
+Use approved reputable suppliers
+Practice time and temperature controll
+CANNOT BE COOKED OUT
+
+<H1>CHENICAL CONTAMINANTS</H1>
+Cleaners, Sanitizers, pesticides
+Deodorizers, first aid products, health and beauty products
+Certain kitchenware and equipment - pweter, copper, zinc, and some types of painted pottery, lead crystal
+
+Use foodsafe chemicals purchased from approved reputable suppliers
+STORE CHEMICALS AWAY FROM PREP AREAS, FOOD-STORAGE AREAS, AND SERVICE AREAS USING BOTH SPACING AND PARTITIONING. NEVER STORE *ABOVE* FOOD OR FOOD CONTACT SERVICES
+Follow manufacturer labels and directions for use and disposal
+
+<h1>PHYSICAL CONTAMINANTS</h1>
+
+Make sure your can openers are working properly
+Don't use wood chopping boards
+
+Purchase from approved, reputable suplliers
+Inspect food received
+Take off jewelry and take other steps to prevent physical contamination including good personal hygiene
+
+It's a federal crime to deliberately contaminate food.
+
+Keep all information accessible and online for traceability and food security. Keep one step back - keep track of where everything comes from.
+
+<h1>RESPONDING TO A FOODBORNE ILLNESS OUTBREAK</h1>
+
+Gathering info
+-Ask questions of the person making the complaint. Do not give them symptoms just ask how they are feeling e.g. don't say "are you vomiting?"
+-Ask when the symptoms started
+-Ask what they ate at the restaurant and when
+
+Notifying authorities
+-Report to health authority if 2 or more people have the same symptoms AND ate the same food
+
+Segregate the produce including a lable with "Do not use" and "Do not Discard"
+Document the information about each suspected product
+Identify staff and interview them immediately
+Cooperate with authorities
+Review procedures
+
+<h1>FOOD ALLERGY & FOOD INTOLERANCE </h1>
+
+Allergy symptoms - nausea, wheezing or shortness of breath, itching and swelling, vomiting and diarrhea, ambdominal pain, itchy throat.
+Gluten in wheat, rye & barley and a little in oats. However oats is often cross-contaminated.
+After INGREDIENTS list, add a CONTAINS statement for known allergens e.g. Wheat, Shellfish, Dairy, Soy, Tree Nuts & Peanuts, Sesame Seed, Fish. The allergens must be in both the Ingredients list and Contains statement
+Garlic, onions and other sulphite containing foods and dyes and food colorings, can be allergens
+
+Service STaff
+-descibe menu items and preparation to guests
+-identify allergens in the item (NO SECRET INGREDIENTS)
+Suggest menu items without the allergen
+Cliearly identify the guest's order for kitchen and service staff.
+Deliver food separately for cross-contact
+
+Kitchen staff
+-Avoid cross contact
+  -do not cook different type of food in the same fryer oil e.g. fries and battered chicken or fish (battered chicken contains enough gluten to contaminate the frieds)
+-Check labels
+WAsh, rinse and sanitize cookware, utensils and equipment
+Make sure the allergen doesn't touch anything with customers with food allergies
+Wash hands and arms and change gloves often. Dry hands and arms using a single use papert towel or hand dryer.
+Use separate fryers and oils for guests with food allergies or disclose that you can't
+Ingredient list and contains statement
+
+Managers
+Personal hygiene policies and revise when laws or science change
+Provide training
+Modeling correct behavior
+Supervising food prep
+Dedicated handwashing sinks
