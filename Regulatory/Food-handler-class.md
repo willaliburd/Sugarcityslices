@@ -195,10 +195,15 @@ Thaw
 -In microwave if it will be immediately cooked e.g. you cannot marinate microwave thawed food
 -As part of the cooking process
 
+<h2>PREPPING</h2>
+Wash produce thoroughly under running water that is a little warmer than the produce
+Separate leaves and discard outer leaves of things like lettuce and cabbage
+You may use an ice bath for prepping produce but don't mix different batches of produce or use the same bath for consecutive batches
+
 <H2>COOKING AND HOLDING HOT</H2>
 
 Cooking temperaturesSeafood 145F
-Whole cuts of meat 145F
+Whole cuts of meat, eggs 145F
 Ground meant or fish 155F
 Whole and ground poultry 165F
 
