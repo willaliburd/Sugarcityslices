@@ -203,8 +203,19 @@ You may use an ice bath for prepping produce but don't mix different batches of 
 <H2>COOKING AND HOLDING HOT</H2>
 
 Cooking temperaturesSeafood 145F
-Whole cuts of meat, eggs 145F
-Ground meant or fish 155F
-Whole and ground poultry 165F
+Food from plants 135F no minimum time
+Whole cuts of meat, eggs, seafood 145F for 15 seconds
+Roasts of pork, beef, veal and lamb 145F for 4 minutes (subject to alternate cooking times for levels of doneness e.g. rare - you need a variance and a HAACP)
+Ground meant or fish 155F for 17 seconds
+Whole and ground poultry, stuffing,  stuffed meat or poultry, pasta 165F for >1 second
 
 Hold hot above 135F
+
+If cooking in microwave, all food needs to be cooked to 165F and:
+-cover food to retain moisture
+-rotate or stir halfway through cooking
+-let stand for 2 minutes after 2 minutes
+-check the temperature in at least 2 places
+
+Check temperature in the thickest part of the food
+Take temperature 2x
