@@ -122,7 +122,7 @@ Gluten in wheat, rye & barley and a little in oats. However oats is often cross-
 After INGREDIENTS list, add a CONTAINS statement for known allergens e.g. Wheat, Shellfish, Dairy, Soy, Tree Nuts & Peanuts, Sesame Seed, Fish. The allergens must be in both the Ingredients list and Contains statement
 Garlic, onions and other sulphite containing foods and dyes and food colorings, can be allergens
 
-Service STaff
+Service Staff
 -descibe menu items and preparation to guests
 -identify allergens in the item (NO SECRET INGREDIENTS)
 Suggest menu items without the allergen
@@ -135,7 +135,7 @@ Kitchen staff
 -Check labels
 WAsh, rinse and sanitize cookware, utensils and equipment
 Make sure the allergen doesn't touch anything with customers with food allergies
-Wash hands and arms and change gloves often. Dry hands and arms using a single use papert towel or hand dryer.
+Wash hands and arms and change gloves often.
 Use separate fryers and oils for guests with food allergies or disclose that you can't
 Ingredient list and contains statement
 
@@ -145,3 +145,6 @@ Provide training
 Modeling correct behavior
 Supervising food prep
 Dedicated handwashing sinks
+
+ALL FOOD HANDLERS
+ Wash hands and arms oftenDry hands and arms using a single use papert towel or hand dryer. Use paper towel to turn off facet and open the door.
