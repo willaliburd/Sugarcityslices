@@ -73,11 +73,13 @@ Naturally occur in certain plants, mushrooms and seafood
 Seafood - tuna, bonito, mahi-mahi. Histamine is produced when fish is time-temperature abused
 Fish that eat smaller fish that have consumed a toxin - Barracuda, snapper, grouper, amberjack eat the smaller fish (ciguatera toxin -found in algae eaten by smaller fish)
 
+Symptoms include reversal of hot and cold sensations.
+
 Use approved reputable suppliers
 Practice time and temperature controll
 CANNOT BE COOKED OUT
 
-<H1>CHENICAL CONTAMINANTS</H1>
+<H1>CHEMICAL CONTAMINANTS</H1>
 Cleaners, Sanitizers, pesticides
 Deodorizers, first aid products, health and beauty products
 Certain kitchenware and equipment - pweter, copper, zinc, and some types of painted pottery, lead crystal
