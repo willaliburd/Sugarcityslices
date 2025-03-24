@@ -34,6 +34,8 @@ Purchase from approved reputable suppliers
 Prevent cross-contamination
 
 <h1>VIRUSES</h1>
+Need host to reproduce
+
 HEPATITIS A OR NOROVIRUS
 
 -ready-to-eat food
@@ -49,3 +51,24 @@ Don't work while sick
 Avoaid bare hand contact with ready to eat food
 Purchase shellfish from approved reputable suppliers
 *Jaundice is the distinguishing factor between norovirus and Hep A*
+
+<h1>PARASITES</h1>
+Need host to reproduce
+
+Purchase food from approved, reputable suppliers
+Cook food to required minimum internal temperatures
+Fish that will be served raw or undercooked must be correctly frozen by the manufacturer
+
+<h1>FUNGI</h1>
+
+Some mold and mushrooms produce toxins
+Throw out moldy food unless mold is a natural part of the food e.g. such cheeses
+Purchase musrooms from approved, reputable suppliers
+Don't sell foraged mushrooms (need to be trained, take a course, and be registered)
+Jellies and jam can grow yeast which grows from sugar
+
+<h1>BIOTOXINS</h1>
+
+Naturally occur in certain plants, mushrooms and seafood
+Seafood - tuna, bonito, mahi-mahi. Histamine is produced when fish is time-temperature abused
+Fish that eat smaller fish that have consumed a toxin - Barracuda, snapper, grouper, amberjack (ciguatera toxin)
