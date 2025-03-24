@@ -119,7 +119,7 @@ Review procedures
 
 Allergy symptoms - nausea, wheezing or shortness of breath, itching and swelling, vomiting and diarrhea, ambdominal pain, itchy throat.
 Gluten in wheat, rye & barley and a little in oats. However oats is often cross-contaminated.
-After INGREDIENTS list, add a CONTAINS statement for known allergens e.g. Wheat, Shellfish, Dairy, Soy, Tree Nuts & Peanuts, Sesame Seed, Fish. The allergens must be in both the Ingredients list and Contains statement
+After INGREDIENTS list, add a CONTAINS statement for known allergens e.g. Wheat, Shellfish, Dairy, Eggs, Soy, Tree Nuts, & Peanuts, Sesame Seed, Fish. The allergens must be in both the Ingredients list and Contains statement
 Garlic, onions and other sulphite containing foods and dyes and food colorings, can be allergens
 
 Service Staff
@@ -148,3 +148,11 @@ Dedicated handwashing sinks
 
 ALL FOOD HANDLERS
  Wash hands and arms oftenDry hands and arms using a single use papert towel or hand dryer. Use paper towel to turn off facet and open the door.
+
+ <h1>REPORTING HEALTH ISSUES</h1>
+ Tell employees to let you know when they're sick. Symptoms are vomiting, diarrhea, jaundice, fever, or if someone they live with is sick.
+ Prevent them working with
+ -Exposed food
+ -utensils
+ -equipment
+ or make them stay home.
