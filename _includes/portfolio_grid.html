@@ -3,23 +3,46 @@
   <div class="container portfolio-flex-grid">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Bakes</h2>
+        <h2>Portfolio</h2>
         <hr class="star-primary">
       </div>
     </div>
     <div class="portfolio-flex-row">
-      {% for post in site.posts %}
+      <!-- Static Image 1 -->
       <div class="portfolio-flex-item portfolio-item">
-        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+        <a href="img/portfolio/almond-scones.png" class="portfolio-link" data-toggle="modal">
           <div class="caption">
             <div class="caption-content">
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
-          <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+          <img src="img/portfolio/almond-scones.png" class="img-responsive" alt="Description 1">
         </a>
       </div>
-      {% endfor %}
+
+      <!-- Static Image 2 -->
+      <div class="portfolio-flex-item portfolio-item">
+        <a href="img/portfolio/Blondies.jpg" class="portfolio-link" data-toggle="modal">
+          <div class="caption">
+            <div class="caption-content">
+              <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/portfolio/Blondies.jpg" class="img-responsive" alt="Description 2">
+        </a>
+      </div>
+
+      <!-- Static Image 3 -->
+      <div class="portfolio-flex-item portfolio-item">
+        <a href="img/portfolio/chocolate-cake.jpg" class="portfolio-link" data-toggle="modal">
+          <div class="caption">
+            <div class="caption-content">
+              <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/portfolio/chocolate-cake.jpg" class="img-responsive" alt="Description 3">
+        </a>
+      </div>
     </div>
   </div>
 </section>
