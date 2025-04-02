@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2025-04-01
-img: almond-scones.jpeg
-alt: image-alt
+img: cake.png
+alt: a tray of almond scones
 category: patisserie
 description: Ingredient list coming soon
 ---
