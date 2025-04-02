@@ -1,6 +1,7 @@
 # Site settings
 title: Sugar City Slices
 email: info@sugarcityslices.com
+
 url: https://github.com/jeromelachaud/freelancer-theme
 description: Delicious pastries and cakes with Kittitian flair
 
@@ -10,6 +11,11 @@ google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+=======
+url: www.sugarcityslices.com
+description: Delicious pastries and cakes with Kittitian flair
+
+
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -17,9 +23,11 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
+
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname:
+
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
