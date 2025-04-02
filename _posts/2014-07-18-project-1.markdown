@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 
+date: 2025-04-01
 img: almond-scones.jpeg
 alt: image-alt
 category: patisserie
