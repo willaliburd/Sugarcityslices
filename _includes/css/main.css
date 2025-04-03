@@ -475,6 +475,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+ul.star.bullet {list-style-type:"\2605"
+}
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
