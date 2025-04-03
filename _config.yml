@@ -44,7 +44,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Contact us by <a href="mailto:info@sugarcityslices.com"sending us an email</a>, or on social media.
+  - line: Contact us by <a href="mailto:info@sugarcityslices.com">sending us an email</a>, or on social media.
   
 
 # Credits content
