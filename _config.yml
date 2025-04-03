@@ -45,7 +45,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Contact us by <a href="mailto:info@sugarcityslices.com"sending us an email</a>, or on social media.
-  - line: Bloomington, Indiana
+  
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
