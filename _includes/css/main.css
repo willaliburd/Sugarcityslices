@@ -179,10 +179,13 @@ section h2 {
     margin: 0;
     font-size: 3em;
 }
-
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+section.sugar {
+    color: #fff;
+    background: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {
