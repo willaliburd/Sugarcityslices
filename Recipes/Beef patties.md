@@ -4,13 +4,13 @@
 Makes 12 medium patties
 
 <h3>For the Pastry</h3>
-400 grams all-purpose flour, plus extra for rolling 
+400 grams all-purpose flour, plus extra for rolling (2/12 cups)
 2 teaspoons salt 
 ½ teaspoon ground annatto, optional 
 
 ½ teaspoon ground turmeric 
-150 grams coconut oil, melted 
-200 grams cold water 
+150 grams coconut oil, melted (1/2 cup + 3 TBSP)
+200 grams cold water (3/4 cup + 1 TBSP)
 1 large egg, beaten with cup water, for glazing, optional 
 
 <h3>For the Filling </h3>
