@@ -109,6 +109,20 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+.item-label {
+  text-align: center;
+  padding: 10px 0;
+  font-weight: 600;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.portfolio-flex-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
