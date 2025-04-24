@@ -1,0 +1,4 @@
+Bread loaf silicone forms - https://www.amazon.com/dp/B07WYKVVRG?linkCode=ssc&tag=onamzallys0f2-20&creativeASIN=B07WYKVVRG&asc_item-id=amzn1.vse.video.01551bdb5743462fbe61ff72c7fac9e4&ref_=cm_sw_r_cp_ud_aipsfshop_aipsfallysongrant_GN2D9EJR4B8E2CZR8ERB_qv_asin&th=1 
+clamshell boxes clear - https://www.amazon.com/dp/B09QHK6QJT?linkCode=ssc&tag=onamzallys0f2-20&creativeASIN=B09QHK6QJT&asc_item-id=amzn1.ideas.32XOQHWNRE4OQ&ref_=cm_sw_r_cp_ud_aipsfshop_aipsfallysongrant_GN2D9EJR4B8E2CZR8ERB_asin
+cashpan - https://www.amazon.com/dp/B07FFR8FK9?linkCode=ssc&tag=onamzallys0f2-20&creativeASIN=B07FFR8FK9&asc_item-id=amzn1.shoppablemedia.v1.f47a7dd3-4602-4cc4-8b60-1963edb22a12&ref_=cm_sw_r_cp_ud_aipsfshop_aipsfallysongrant_GN2D9EJR4B8E2CZR8ERB_f_asin&th=1
+spandex table cover 6ft - https://a.co/d/3pfl5Ea
