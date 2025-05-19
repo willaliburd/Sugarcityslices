@@ -31,7 +31,6 @@ Ingredients
     optional for decoration: semi-sweet chocolate chips
 
 <h2>Instructions</h2>
-
     Preheat oven to 350°F (177°C). Grease two 9-inch cake pans, line with parchment paper rounds, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans. (If it’s helpful, see this parchment paper rounds for cakes video & post.)
     Make the cake: Whisk the flour, cocoa powder, sugar, baking soda, baking powder, salt, and espresso powder (if using) together in a large bowl. Set aside. Using a handheld or stand mixer fitted with a whisk attachment (or you can use a whisk) mix the oil, eggs, and vanilla together on medium-high speed until combined. Add the buttermilk and mix until combined. Pour the wet ingredients into the dry ingredients, add the hot water/coffee, and whisk or beat on low speed until the batter is completely combined. Batter is thin.
     Divide batter evenly between pans. Bake for 23-26 minutes or until a toothpick inserted in the center comes out clean. Baking times vary, so keep an eye on yours. The cakes are done when a toothpick inserted in the center comes out clean. (Note: Even if they’re completely done, the cooled cakes may *slightly* sink in the center. Cocoa powder is simply not as structurally strong as all-purpose flour and can’t hold up to all the moisture necessary to make a moist tasting chocolate cake. It’s normal!)
@@ -42,7 +41,6 @@ Ingredients
     Cover leftover cake tightly and store in the refrigerator for 5 days. I like using a cake carrier for storing and transporting.
 
 <h2>Notes</h2>
-
     Make Ahead & Freezing Instructions: Prepare cake through step 4. Wrap the individual baked and cooled cake layers tightly and refrigerate for up to 2 days or freeze up to 3 months. Bring to room temperature then continue with step 5. You can prepare the chocolate buttercream 2-3 days in advance. Cover and refrigerate, then bring to room temperature before spreading onto/assembling the cake. Frosted cake freezes well, up to 3 months. Thaw overnight in the refrigerator, then bring to room temperature or serve cold.
     Special Tools (affiliate links): 9-inch Round Cake Pans | Electric Mixer (Handheld or Stand Mixer) | Glass Mixing Bowls | Whisk | Cooling Rack | Cake Stand, Serving Plate, or Cake Turntable | Icing Spatula | Bench Scraper | Cake Carrier (for storing)
     3 Layer Cake: You can also prepare this cake as a 3 layer cake. Divide batter between three 8-inch or 9-inch cake pans in step 1 and bake for 22-25 minutes or until a toothpick inserted in the center comes out clean. This frosting will be enough for 3 layers. If desired, use the frosting recipe from my Piñata Cake if you want extra frosting.
