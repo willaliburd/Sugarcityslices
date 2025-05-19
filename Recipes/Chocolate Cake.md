@@ -6,7 +6,6 @@
 This is my favorite homemade chocolate cake recipe. With a super moist crumb and fudgy, yet light texture, this chocolate cake recipe will be your favorite too. Top with chocolate buttercream and chocolate chips for 3x the chocolate flavor. You can also prepare this chocolate layer cake as a sheet cake. See recipe Note.
 Ingredients
 <h2>Cake</h2>
-
     1 and 3/4 cups (219g) all-purpose flour (spooned & leveled)
     3/4 cup (62g) unsweetened natural cocoa powder
     1 and 3/4 cups (350g) granulated sugar
@@ -21,7 +20,6 @@ Ingredients
     1 cup (240ml) freshly brewed strong hot coffee (regular or decaf)
 
 <h2>Chocolate Buttercream</h2>
-
     1 and 1/4 cups (282g) unsalted butter, softened to room temperature
     3 and 1/2 cups (420g) confectioners’ sugar
     3/4 cup (65g) unsweetened cocoa powder (natural or dutch process)
